@@ -5,3 +5,5 @@
  ### Why is the windows version so big?
 
  This is because the windows exe needs a bunch of other files to work because of the tk element.
+
+ 
