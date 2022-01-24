@@ -6,4 +6,11 @@
 
  This is because the windows exe needs a bunch of other files to work because of the tk element.
 
- 
+## How to run
+
+on Windows, just download the exe from itch.io or from GitHub
+
+On MacOS and Linux download the py file from the releases or itch.io
+
+# A note on this project's origins
+

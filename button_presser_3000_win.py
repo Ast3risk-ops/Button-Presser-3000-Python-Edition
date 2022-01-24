@@ -9,7 +9,7 @@ from os import system
 # It's been ported to Python, the info boxes and stuff are extras I added on for fun (It's kinda dumb, I know)
 system("color f0")
 system("cls")
-app = App()
+app = App(title="Hey, you're not supposed to see this!")
 while True:
     app.hide()
     print("Press T and Enter to win!")
