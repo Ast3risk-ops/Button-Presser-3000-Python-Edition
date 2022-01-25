@@ -15,3 +15,4 @@ On MacOS and Linux download the py file from the releases or itch.io
 
 I got the idea for this project from a book on bad games that added a bonus bad game for the Spectrum. A picture of the joke "cover":
 
+![IMG_0290](https://user-images.githubusercontent.com/83875983/150885625-a931f7ec-c276-4ed7-b459-95fa6a07caf7.jpg)
