@@ -13,3 +13,5 @@ On MacOS and Linux download the py file from the releases or itch.io
 
 # A note on this project's origins
 
+I got the idea for this project from a book on bad games that added a bonus bad game for the Spectrum. A picture of the joke "cover":
+
