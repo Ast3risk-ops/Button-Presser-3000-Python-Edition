@@ -7,9 +7,9 @@ This is because the windows exe needs a bunch of other files to work because of 
 
 ## How to run
 
-On Windows, just download the exe from itch.io or from GitHub
+On Windows, just download the exe from itch.io or from the releases tab
 
-On MacOS and Linux download the py file from the releases or itch.io
+On MacOS and Linux download the py file from the releases tab or itch.io
 
 # A note on this project's origins
 
